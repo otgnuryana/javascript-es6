@@ -1,0 +1,49 @@
+{
+    "status": 200,
+    "message": "Successfully tracked package",
+    "data": {
+        "summary": {
+            "awb": "022520000500621",
+            "courier": "JNE Express",
+            "service": "YES",
+            "status": "ON PROCCESS",
+            "date": "2021-02-03 07:42:00",
+            "desc": "OBAT HERBAL ",
+            "amount": "18000",
+            "weight": "1"
+        },
+        "detail": {
+            "origin": "SUMEDANG",
+            "destination": "TAPOS,DEPOK",
+            "shipper": "ENAH ",
+            "receiver": "YAYA TARYA "
+        },
+        "history": [
+            {
+                "date": "2021-02-03 07:42:00",
+                "desc": "WITH DELIVERY COURIER [DEPOK]",
+                "location": ""
+            },
+            {
+                "date": "2021-02-03 05:28:00",
+                "desc": "RECEIVED AT WAREHOUSE [DPK, CASH COUNTER JNE KSU]",
+                "location": ""
+            },
+            {
+                "date": "2021-02-02 19:48:00",
+                "desc": "PROCESSED AT SORTING CENTER [SUMEDANG, PRABU GAJAH AGUNG]",
+                "location": ""
+            },
+            {
+                "date": "2021-02-02 19:12:00",
+                "desc": "RECEIVED AT SORTING CENTER [BANDUNG]",
+                "location": ""
+            },
+            {
+                "date": "2021-02-02 14:09:00",
+                "desc": "SHIPMENT RECEIVED BY JNE COUNTER OFFICER AT [SUMEDANG]",
+                "location": ""
+            }
+        ]
+    }
+}
